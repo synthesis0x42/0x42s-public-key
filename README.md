@@ -12,3 +12,5 @@ KvDRon9IAADWHQD+JnzltAB4EHKfjandVkEsZLOOxCJOCMY5+xddK+89jFYB
 AKxTQHCwivjasLxEKX1v/D58uFPGyPR+2rqvEdTHum8G
 =6TPe
 -----END PGP PUBLIC KEY BLOCK-----</code>
+
+asc download available as well
